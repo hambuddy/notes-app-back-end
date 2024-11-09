@@ -1,1 +1,4 @@
 node_modules
+keyaws.pem
+.env
+.prod.env
