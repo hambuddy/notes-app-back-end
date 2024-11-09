@@ -1,6 +1,5 @@
 const ClientError = require("../../exceptions/ClientError");
 
-
 class NotesHandler {
     constructor(service, validator) {
         this._service = service;
@@ -22,7 +21,7 @@ class NotesHandler {
             data: {
             noteId,
             },
-        })
+        });
         response.code(201);
         return response;
     }
