@@ -1,4 +1,5 @@
 node_modules
-keyaws.pem
+noteskey.pem
 .env
 .prod.env
+src/api/uploads/file
