@@ -33,6 +33,7 @@
     "nanoid": "^3.1.20",
     "node-pg-migrate": "^7.7.1",
     "notes-app-back-end": "file:",
-    "pg": "^8.13.1"
+    "pg": "^8.13.1",
+    "redis": "^4.7.0"
   }
 }
